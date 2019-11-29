@@ -1045,6 +1045,10 @@ input[type="color"]:focus,
     background-color: #ea4c89;
 }
 
+.social-1 li a i.fa-wordpress {
+    background-color: #AD1457;
+}
+
 
 /***************blog****************/
 
